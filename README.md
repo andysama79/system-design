@@ -28,5 +28,3 @@
 - Examples:
   - Strategy Pattern: allows for the selection of a strategy from a family of strategies
   - Mememto Pattern: allows for the saving and restoring of the state of an object
-
-## The Singleton Pattern | Creational Design Patterns
