@@ -19,11 +19,3 @@
 | What is a complex object? | An object that has many attributes and requires a step-by-step construction process. |
 | What is a creational design pattern? | A pattern that deals with object creation mechanisms, such as constructors and factories. |
 
-**Output in CSV Format**
-
-Where is the Builder design pattern used?,A creational pattern that allows for the step-by-step creation of complex objects, separating construction code from the object itself.
-What is the main goal of the Builder pattern?,To enable the creation of complex objects through a step-by-step process, allowing for flexibility and reuse of construction code.
-What is a Director class used for?,To create multiple objects using a Builder class, encapsulating the construction process.
-What is a Builder class used for?,To contain the methods for constructing an object, step-by-step.
-What is a complex object?,An object that has many attributes and requires a step-by-step construction process.
-What is a creational design pattern?,A pattern that deals with object creation mechanisms, such as constructors and factories.
